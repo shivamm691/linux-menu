@@ -69,6 +69,7 @@ draw_board() {
     move_and_draw $((height+2)) $((width + 2)) "$border_color+$no_color"
     echo
 }
+echo ---shivam--change-- this
 
 # set the snake's initial state
 init_snake() {
